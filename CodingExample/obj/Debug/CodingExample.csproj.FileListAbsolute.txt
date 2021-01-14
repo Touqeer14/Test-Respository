@@ -1,0 +1,7 @@
+C:\Users\OVRLOD\source\repos\CodingExample\CodingExample\bin\Debug\CodingExample.exe.config
+C:\Users\OVRLOD\source\repos\CodingExample\CodingExample\bin\Debug\CodingExample.exe
+C:\Users\OVRLOD\source\repos\CodingExample\CodingExample\bin\Debug\CodingExample.pdb
+C:\Users\OVRLOD\source\repos\CodingExample\CodingExample\obj\Debug\CodingExample.csprojAssemblyReference.cache
+C:\Users\OVRLOD\source\repos\CodingExample\CodingExample\obj\Debug\CodingExample.csproj.CoreCompileInputs.cache
+C:\Users\OVRLOD\source\repos\CodingExample\CodingExample\obj\Debug\CodingExample.exe
+C:\Users\OVRLOD\source\repos\CodingExample\CodingExample\obj\Debug\CodingExample.pdb
